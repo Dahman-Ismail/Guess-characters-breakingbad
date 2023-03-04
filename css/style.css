@@ -1,0 +1,7 @@
+.hv-P:hover{
+    background-color: #3F704D;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.7s;
+}
